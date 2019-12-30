@@ -1,0 +1,4 @@
+
+Motor Info
+Stall - 1.6A
+Chop by controler - 3.3V/(6.6 * 1.5A) = 330mOHM
