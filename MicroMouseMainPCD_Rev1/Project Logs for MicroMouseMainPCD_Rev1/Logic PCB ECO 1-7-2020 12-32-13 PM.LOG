@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=C20 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Physical Footprint: Designator=P0 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=P1 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=P2 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=P3 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=P4 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=P5 Old Footprint=HDDR_6X1_0 New Footprint=HDDR_6X1_0
+Change Physical Footprint: Designator=R5 Old Footprint=chip_0603 New Footprint=chip_0603

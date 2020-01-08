@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=M0_PWM0 Pin=U0-14
+Added Pin To Net: NetName=M0_PWM1 Pin=U0-15
+Added Pin To Net: NetName=M1_PWM1 Pin=U0-16
+Added Pin To Net: NetName=M1_PWM0 Pin=U0-17

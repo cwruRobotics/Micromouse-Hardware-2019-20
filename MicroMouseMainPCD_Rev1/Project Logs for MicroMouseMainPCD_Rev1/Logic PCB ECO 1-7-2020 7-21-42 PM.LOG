@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VBAT Pin=P8-2
+Removed Pin From Net: NetName=VBAT Pin=SW1-2
+Added Pin To Net: NetName=VBAT Pin=SW1-3
+Added Pin To Net: NetName=VBAT Pin=U3-3
+Change Net Name : Old Net Name=VBAT New Net Name=VBAT_SWITCHED
+Added Pin To Net: NetName=VBAT Pin=P8-2
+Added Pin To Net: NetName=VBAT Pin=SW1-2
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Logic Member=Component P7 conn-6x1_0
