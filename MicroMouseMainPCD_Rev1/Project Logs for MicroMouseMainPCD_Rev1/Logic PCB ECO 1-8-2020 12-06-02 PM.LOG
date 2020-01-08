@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=OPT_A Pin=U0-8
+Removed Pin From Net: NetName=OPT_B Pin=U0-9
+Removed Pin From Net: NetName=OPT_C Pin=U0-10
+Removed Pin From Net: NetName=OPT_D Pin=U0-11
+Added Pin To Net: NetName=S2_INT Pin=U0-8
+Added Pin To Net: NetName=S2_XS Pin=U0-9
+Added Pin To Net: NetName=S1_INT Pin=U0-10
+Added Pin To Net: NetName=S1_XS Pin=U0-11
