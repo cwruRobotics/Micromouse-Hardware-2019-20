@@ -1,0 +1,11 @@
+Added Component: Designator=R35(chip_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-PA3F4700V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U0-60
+Added Net: Name=NetR35_1
+Added Member To Class: ClassName=Logic Member=Component R35 res_single
