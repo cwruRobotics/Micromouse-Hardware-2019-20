@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=LED_0 Pin=R23-1
+Added Pin To Net: NetName=LED_0 Pin=U0-57
+Added Net: Name=LED_0
+Added Pin To Net: NetName=LED_1 Pin=R24-1
+Added Pin To Net: NetName=LED_1 Pin=U0-56
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=R25-1
+Added Pin To Net: NetName=LED_2 Pin=U0-55
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=R26-1
+Added Pin To Net: NetName=LED_3 Pin=U0-54
+Added Net: Name=LED_3
+Added Pin To Net: NetName=LED_4 Pin=R27-1
+Added Pin To Net: NetName=LED_4 Pin=U0-53
+Added Net: Name=LED_4
+Added Pin To Net: NetName=LED_5 Pin=R28-1
+Added Pin To Net: NetName=LED_5 Pin=U0-52
+Added Net: Name=LED_5
+Added Pin To Net: NetName=LED_6 Pin=R29-1
+Added Pin To Net: NetName=LED_6 Pin=U0-51
+Added Net: Name=LED_6
+Added Pin To Net: NetName=LED_7 Pin=R30-1
+Added Pin To Net: NetName=LED_7 Pin=U0-50
+Added Net: Name=LED_7
