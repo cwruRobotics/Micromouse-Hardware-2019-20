@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=S4_INT Pin=U0-58
+Added Pin To Net: NetName=S4_XS Pin=U0-59
+Added Member To Class: ClassName=Logic Member=Component U1 TCA9548A
