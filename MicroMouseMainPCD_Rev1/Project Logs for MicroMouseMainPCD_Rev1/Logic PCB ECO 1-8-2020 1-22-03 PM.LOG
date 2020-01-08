@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=S3_INT Pin=U0-61
+Added Pin To Net: NetName=S3_XS Pin=U0-62
+Added Room: Name=Logic
