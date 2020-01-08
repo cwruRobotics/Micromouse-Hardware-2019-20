@@ -1,0 +1,22 @@
+Added Component: Designator=P9(HDDR_6X1_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P9-4
+Added Pin To Net: NetName=GND Pin=P9-6
+Added Pin To Net: NetName=JTAG_TCK Pin=P9-1
+Added Pin To Net: NetName=JTAG_TCK Pin=U0-49
+Added Net: Name=JTAG_TCK
+Added Pin To Net: NetName=JTAG_TDI Pin=P9-5
+Added Pin To Net: NetName=JTAG_TDI Pin=R30-1
+Added Pin To Net: NetName=JTAG_TDI Pin=U0-50
+Added Net: Name=JTAG_TDI
+Added Pin To Net: NetName=JTAG_TDO Pin=P9-2
+Added Pin To Net: NetName=JTAG_TDO Pin=R25-1
+Added Pin To Net: NetName=JTAG_TDO Pin=U0-55
+Added Net: Name=JTAG_TDO
+Added Pin To Net: NetName=JTAG_TMS Pin=P9-3
+Added Pin To Net: NetName=JTAG_TMS Pin=U0-46
+Added Net: Name=JTAG_TMS
+Added Member To Class: ClassName=Logic Member=Component P9 conn-6x1_0
