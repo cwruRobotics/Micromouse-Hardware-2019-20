@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C3
+Change Component Designator: OldDesignator=R2 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R2
+Added Member To Class: ClassName=Logic Member=Component C19 cap_single_np
