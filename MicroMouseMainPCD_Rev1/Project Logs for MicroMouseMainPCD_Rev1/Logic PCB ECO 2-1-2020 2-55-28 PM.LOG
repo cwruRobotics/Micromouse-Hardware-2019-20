@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=VCC Pin=R28-1
+Removed Pin From Net: NetName=NetD9_2 Pin=R28-2
+Change Component Footprint: Designator=C11 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C25 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C26 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C27 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=D9 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R11 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R20 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R21 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R22 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R27 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R29 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R33 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R35 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R36 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C14 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=Y2 Old Footprint=smd2-0 New Footprint=smd2-0
+Added Component: Designator=R28(chip_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-PA3F3300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R28-1
+Added Pin To Net: NetName=NetD9_2 Pin=R28-2
+Added Member To Class: ClassName=Logic Member=Component C5 cap_single_np
+Added Member To Class: ClassName=Logic Member=Component C8 cap_single_np
+Added Member To Class: ClassName=Logic Member=Component C11 cap_single_np
+Added Member To Class: ClassName=Logic Member=Component C14 cap_single_np
+Added Member To Class: ClassName=Logic Member=Component P1 conn-6x1_0
+Added Member To Class: ClassName=Logic Member=Component P2 conn-6x1_0
+Added Member To Class: ClassName=Logic Member=Component P4 conn-6x1_0
+Added Member To Class: ClassName=Logic Member=Component P6 conn-6x1_0
+Added Member To Class: ClassName=Logic Member=Component P8 conn-6x1_0
+Added Member To Class: ClassName=Logic Member=Component R2 res_single
+Added Member To Class: ClassName=Logic Member=Component R4 res_single
+Added Member To Class: ClassName=Logic Member=Component R8 res_single
+Added Member To Class: ClassName=Logic Member=Component R10 res_single
+Added Member To Class: ClassName=Logic Member=Component R11 res_single
+Added Member To Class: ClassName=Logic Member=Component R12 res_single
+Added Member To Class: ClassName=Logic Member=Component R20 res_single
+Added Member To Class: ClassName=Logic Member=Component R21 res_single
+Added Member To Class: ClassName=Logic Member=Component R22 res_single
+Added Member To Class: ClassName=Logic Member=Component R25 res_single
+Added Member To Class: ClassName=Logic Member=Component R27 res_single
+Added Member To Class: ClassName=Logic Member=Component R28 res_single
+Added Member To Class: ClassName=Logic Member=Component R29 res_single
+Added Member To Class: ClassName=Logic Member=Component R30 res_single
+Added Member To Class: ClassName=Logic Member=Component R33 res_single
+Added Member To Class: ClassName=Logic Member=Component R34 res_single
+Added Member To Class: ClassName=Logic Member=Component R35 res_single
+Added Member To Class: ClassName=Logic Member=Component SW1 DIP_SW_4
+Added Member To Class: ClassName=Logic Member=Component U1 STM32F446_64_0
+Added Member To Class: ClassName=Logic Member=Component Y1 osc_xtal_2p_0
