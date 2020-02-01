@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=LED_2 Pin=P9-2
+Removed Pin From Net: NetName=JTAG_TMS Pin=P9-3
+Removed Pin From Net: NetName=LED_7 Pin=P9-5
+Removed Pin From Net: NetName=GND Pin=P9-6
+Change Component Footprint: Designator=P9 Old Footprint=HDDR_6X1_0 New Footprint=CNC_TECH_3020-10-0100-XX
+Change Component Comment : Designator=P9 Old Comment=conn-6x1_0 New Comment=conn-5x2_0
+Change component parameters: Designator = "P9"; Footprint = "CNC_TECH_3020-10-0100-XX"; UniqueID = "\GXATWLOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cost"; Value = "0.58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Levels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "3020-10-0100-00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CONN-00054"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions per level"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P11(hddr_2x1_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cost"; Value = "0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-102-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=R37(chip_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-PA3F4700V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_2 Pin=P9-3
+Added Pin To Net: NetName=JTAG_TMS Pin=P9-5
+Added Pin To Net: NetName=LED_7 Pin=P9-9
+Added Pin To Net: NetName=GND Pin=P9-10
+Added Pin To Net: NetName=NetC13_1 Pin=R37-1
+Added Pin To Net: NetName=JTAG_RST Pin=P9-6
+Added Pin To Net: NetName=JTAG_RST Pin=P11-2
+Added Net: Name=JTAG_RST
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=R37-2
+Added Net: Name=NetP11_1
+Added Member To Class: ClassName=Logic Member=Component D2 diode_4
+Added Member To Class: ClassName=Logic Member=Component P9 conn-5x2_0
+Added Member To Class: ClassName=Logic Member=Component P11 conn-2x1_0
+Added Member To Class: ClassName=Logic Member=Component R37 res_single
