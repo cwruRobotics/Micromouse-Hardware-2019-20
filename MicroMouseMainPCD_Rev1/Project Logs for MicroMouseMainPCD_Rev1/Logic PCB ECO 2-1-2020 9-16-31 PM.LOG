@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=M0_QB Pin=U1-22
+Removed Pin From Net: NetName=M0_QA Pin=U1-23
+Change Component Footprint: Designator=R37 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=P11 Old Footprint=hddr_2x1_0 New Footprint=hddr_2x1_0
+Added Pin To Net: NetName=M0_QA Pin=U1-22
+Added Pin To Net: NetName=M0_QB Pin=U1-23
